@@ -1,2 +1,0 @@
-# nid_scanner
-
